@@ -1,0 +1,32 @@
+1. Describe the characteristics of Big data in detail.
+    
+                       They are of three types
+                        1.Structured
+                        2.semi structured
+                        3.Unstructured
+    3 v's of big data
+
+   volume- big data is process of handling large amount of data thus making data analysis  easier
+even large amount of data can be processed easier using big data
+   
+   variety-refers to type of data that is being handled example structured data analysis are done by using tables
+    
+   velocity-it refers to speed at which the data being exchanged since it handles large volume of data velocity should be high
+    
+   varacity – this refers to  the consistency  of data interms of accuracy.
+   
+   value-it refers to the value it will produce.
+
+2. Explain the possible solutions to handle Big data.
+      1.hadoop
+      2.yarn
+      3.gfs
+      
+
+3.Explain the differences between scaling up and scaling out.
+
+        scale up- when there are not enough resources avaliable in the system scaling is being to used to add some additional resouces to the system like ram,hard disk thus increases the perfomance and strorage
+
+
+        scale out-the process of adding additional node in a cluster to enhance the perfomance of the system to provide faster processing is called as scale out.
+  
